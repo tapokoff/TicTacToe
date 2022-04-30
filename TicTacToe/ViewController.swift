@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  TicTacToe
 //
-//  Created by Irishka Balakireva on 30.04.2022.
+//  Created by Daniil Balakiriev on 30.04.2022.
 //
 
 import UIKit
